@@ -9,5 +9,5 @@
         android:text="Today - Sunny - 88/63"
         android:id="@+id/list_item_forecast_textview"
 
-        android:layout_centerHorizontal="true" />
+         />
 </RelativeLayout>
